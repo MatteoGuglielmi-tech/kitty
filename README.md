@@ -1,7 +1,10 @@
 <!--toc:start-->
 
 - [❓ What are we talking about? ❓](#what-are-we-talking-about)
-  - [🔧 How to set a color scheme 🔧](#🔧-how-to-set-a-color-scheme-🔧) - [📁 Color schemes folder 📁](#📁-color-schemes-folder-📁)
+- [🔧 How to set a color scheme 🔧](#🔧-how-to-set-a-color-scheme-🔧)
+  - [📁 Color schemes palette 📁](#📁-color-schemes-palette-📁)
+  - [⬇️ Installation ⬇️](#️-installation-️)
+  - [⚠️ Disclaimer ⚠️](#️-disclaimer-️)
   <!--toc:end-->
 
 ## 🎨 Author 🎨
