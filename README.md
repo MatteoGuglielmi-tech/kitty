@@ -1,3 +1,5 @@
+## 📖 Table of Contents 📖
+
 <!--toc:start-->
 
 - [❓ What are we talking about? ❓](#what-are-we-talking-about)
